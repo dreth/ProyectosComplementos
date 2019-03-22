@@ -1,7 +1,7 @@
 # ProyectosComplementos
 Proyectos realizados en complementos de mat financiera.
 
-Explanation of each file in the master branch:
+Explanation of each file in the project folders:
 
 ---> intereses.py
 It's a very basic and simple set of functions to calculate the end result of an investment depending on the type of interest used.
